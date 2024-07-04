@@ -1,6 +1,7 @@
 import math
-#The user  should be allowed to choose which calculation they want to do
-#A = P* math.pow((1+r),t)
+# The program is  an investment calculator and a home loan repayment calculator.
+# The user  should be allowed to choose which calculation they want to do
+
 
 def main():
     print("Choose the calculation you want to perform:")
