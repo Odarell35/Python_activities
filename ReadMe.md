@@ -9,11 +9,14 @@ Creating a program that provides users with access to two different financial ca
  - This dual-function program would be invaluable for users looking to make informed financial decisions, whether planning for future investments or managing home loan repayments.
 
 ### Prerequisites
-    - [Python](https://python.org/downloads/)
-    - [VSCode](https://code.visualstudio.com/Download)
+
+    - [Python] (https://python.org/downloads/)
+    - [VSCode] (https://code.visualstudio.com/Download)
 
 ## Getting Started
     install python
+
+    
     1. Clone the repository:
         git clone https://github.com/Odarell35/python_activities.git
     2. Open repository in VSCode
