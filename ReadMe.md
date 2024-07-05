@@ -17,6 +17,7 @@ Creating a program that provides users with access to two different financial ca
     apt install python
 
 1. Clone the repository:
+
         git clone https://github.com/Odarell35/python_activities.git
 
 2. Open repository in VSCode
@@ -29,5 +30,6 @@ Creating a program that provides users with access to two different financial ca
     Follow the calculators prompts
 
 ### Screenshot
+
  ![](image.png)
 

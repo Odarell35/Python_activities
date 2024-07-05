@@ -16,7 +16,7 @@ def main():
         rate = int(input("Enter interest rate: "))
         years = int(input("Enter number of years to take to repay the bond: "))
         repayment = ((rate / 1200) * amount) / (1 - math.pow((1 + (rate/1200)), (-years*12)))
-        print("Repayment amount each month: R ", repayment)
+        print("Repayment amount each month: R ", round(repayment, 2))
     elif choice == "investment":
         print("You have chosen Investment calculation.")
         amount = int(input("Enter amount to invest: "))
@@ -25,10 +25,10 @@ def main():
         interest = input("Enter your choice (simple/compound): ").strip().lower()
         if interest == "simple":
             total = amount * (1 + rate // 100 * years)
-            print(total)
+            print("R ", round(total, 2))
         elif interest == "compound":
             total = amount * math.pow((1 + (rate // 100)), years)
-            print(total)
+            print("R ",  round(total, 2))
         else:
             print("invalid choice")
     else:
