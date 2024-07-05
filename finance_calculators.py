@@ -3,7 +3,7 @@ import math
 # The user  should be allowed to choose which calculation they want to do
 
 
-def main():
+def Finance_calculator():
     print("Choose the calculation you want to perform:")
     print("Bond-    \t to calculatee the amount you have to pay on a home loan")
     print("Investment- \t to calculate the amount of interest you will earn")
@@ -35,4 +35,4 @@ def main():
         print("Invalid input. Please enter 'bond' or 'investment'.")
 
 if __name__ == "__main__":
-    main()
+    Finance_calculator()
