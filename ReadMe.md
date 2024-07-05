@@ -8,11 +8,13 @@ Creating a program that provides users with access to two different financial ca
  - The home loan repayment calculator would help users determine their monthly mortgage payments, taking into account loan amount, interest rate, and loan term.
  - This dual-function program would be invaluable for users looking to make informed financial decisions, whether planning for future investments or managing home loan repayments.
 
-### Prerequisites
+## Prerequisites
 
-    - [Python] (https://python.org/downloads/)
-    - [VSCode] (https://code.visualstudio.com/Download/)
-    - [Node.js](https://nodejs.org/) (includes npm)
+
+ - [Python](https://python.org/downloads/)
+ - [Visual Studio Code (VSCode)](https://code.visualstudio.com/Download/)
+ - [Node.js](https://nodejs.org/) (includes npm)
+
 
 ## Getting Started
     install python
