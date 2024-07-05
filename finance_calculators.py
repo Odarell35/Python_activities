@@ -14,7 +14,7 @@ def main():
         print("You have chosen Bond calculation.")
         amount = int(input("Enter value of house: "))
         rate = int(input("Enter interest rate: "))
-        years = int(input("Enter number of months they plan to take to repay the bond: "))
+        years = int(input("Enter number of years to take to repay the bond: "))
         repayment = ((rate / 1200) * amount) / (1 - math.pow((1 + (rate/1200)), (-years*12)))
         print("Repayment amount each month: R ", repayment)
     elif choice == "investment":

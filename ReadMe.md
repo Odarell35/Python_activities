@@ -10,24 +10,24 @@ Creating a program that provides users with access to two different financial ca
 
 ## Prerequisites
 
-
  - [Python](https://python.org/downloads/)
  - [Visual Studio Code (VSCode)](https://code.visualstudio.com/Download/)
- - [Node.js](https://nodejs.org/) (includes npm)
-
 
 ## Getting Started
-    install python
+    apt install python
 
-
-    1. Clone the repository:
+1. Clone the repository:
         git clone https://github.com/Odarell35/python_activities.git
-    2. Open repository in VSCode
-    3. Run the file or in terminal: python finance_calculator
+
+2. Open repository in VSCode
+
+3. Run :
+    python finance_calculator
 
 
 ### How to Calculate
     Follow the calculators prompts
 
 ### Screenshot
+ ![](image.png)
 
