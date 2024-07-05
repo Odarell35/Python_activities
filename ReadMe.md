@@ -28,7 +28,7 @@ Creating a program that provides users with access to two different financial ca
 
 
 ### How to Calculate
-    Follow the calculators prompts
+Follow the calculators prompts
 
 ### Screenshot
 
