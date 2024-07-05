@@ -23,6 +23,7 @@ Creating a program that provides users with access to two different financial ca
 2. Open repository in VSCode
 
 3. Run :
+
     python finance_calculator
 
 
