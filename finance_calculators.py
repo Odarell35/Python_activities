@@ -24,7 +24,7 @@ def main():
         years = int(input("Enter number of years they plan on investing for: "))
         interest = input("Enter your choice (simple/compound): ").strip().lower()
         if interest == "simple":
-            total = amount * (1 + rate / 100 * years)
+            total = amount * (1 + rate // 100 * years)
             print(total)
         elif interest == "compound":
             total = amount * math.pow((1 + (rate // 100)), years)
