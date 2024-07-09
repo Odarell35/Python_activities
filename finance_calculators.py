@@ -4,8 +4,11 @@ import math
 
 
 def Finance_calculator():
+    print("  ")
     print("Choose the calculation you want to perform:")
+    print("  ")
     print("Bond-    \t to calculatee the amount you have to pay on a home loan")
+    print("  ")
     print("Investment- \t to calculate the amount of interest you will earn")
 
     choice = input("Enter your choice (bond/investment): ").strip().lower()
