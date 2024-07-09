@@ -6,7 +6,6 @@ Creating a program that provides users with access to two different financial ca
 
  - The investment calculator would enable users to analyze and project their investment returns, considering factors like initial investment, interest rates, and investment duration.
  - The home loan repayment calculator would help users determine their monthly mortgage payments, taking into account loan amount, interest rate, and loan term.
- - This dual-function program would be invaluable for users looking to make informed financial decisions, whether planning for future investments or managing home loan repayments.
 
 ## Prerequisites
 
@@ -19,10 +18,11 @@ Creating a program that provides users with access to two different financial ca
 1. Clone the repository:
 
         git clone https://github.com/Odarell35/python_activities.git
+   take us step by step on how to clone it 
 
-2. Open repository in VSCode
+3. Open repository in VSCode
 
-3. Run :
+4. Run :
 
     python finance_calculator
 
