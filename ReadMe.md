@@ -18,10 +18,11 @@ Creating a program that provides users with access to two different financial ca
 1. Clone the repository:
 
         git clone https://github.com/Odarell35/python_activities.git
+   take us step by step on how to clone it 
 
-2. Open repository in VSCode
+3. Open repository in VSCode
 
-3. Run :
+4. Run :
 
     python finance_calculator
 
